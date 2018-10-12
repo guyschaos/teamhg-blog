@@ -1,7 +1,7 @@
 ---
 title: "黑屏解药"
 date: 2018-10-12T21:20:59+08:00
-draft: true
+draft: false
 ---
 
 ![每天看你们一次就好了](/img/Leyeyz-noscale.jpg)
