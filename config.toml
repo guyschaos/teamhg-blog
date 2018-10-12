@@ -1,4 +1,4 @@
 baseURL = "https://blog.teamhg.top/"
-languageCode = "en-us"
-title = "Team Hg Blog"
+languageCode = "zh-cn"
+title = "Team Hg#"
 theme = "ananke"
